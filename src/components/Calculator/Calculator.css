@@ -1,0 +1,23 @@
+.Calculator {
+  text-align: center;
+  margin: auto;
+}
+
+.Calculator > h1 {
+  font-weight: 700;
+  color: #32e0c4;
+  margin-top: 0;
+}
+
+.Calculator > p {
+  font-weight: 500;
+  margin: 1em 0 0 0;
+}
+
+.Calculator .display {
+  font-weight: 300;
+}
+
+.Calculator > input {
+  text-align: center;
+}

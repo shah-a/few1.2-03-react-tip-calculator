@@ -1,14 +1,8 @@
 .App {
-  text-align: center;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  width: 400px;
+  margin: auto;
+  padding: 1.5em 0;
+  border: 3px solid rgba(50, 224, 196, 0.5);
+  background-color: #222831;
+  border-radius: 15px;
 }
